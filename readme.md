@@ -10,3 +10,4 @@
 8. [Largest product in a series](problem008)
 9. [Special Pythagorean triplet](problem009)
 10. [Simmation of primes](problem010)
+11. [Largest product in a grid](problem011)
